@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *main -entry
- *Return:0 afeter runing function
+ *main - Entry
+ *Return:0 after printing
  */
 int main(void)
 {

@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(void)
+{
+  char a;
+  int b;
+  unsigned int c;
+  float e;
+
+  
+}
