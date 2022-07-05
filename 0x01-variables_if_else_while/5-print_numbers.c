@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ * main - prints all single digits number of base 10
+ * Return: 0 if success
+ */
 int main(void)
 {
 	int b;
