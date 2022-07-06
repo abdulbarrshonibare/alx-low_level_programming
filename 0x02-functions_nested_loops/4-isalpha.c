@@ -3,7 +3,7 @@
 /**
  * _isalpha - checks for alphabetic character
  * Return: 1 if success
- *@c - arg fot c
+ * @c - arg fot c
  */
 int _isalpha(int c)
 {
