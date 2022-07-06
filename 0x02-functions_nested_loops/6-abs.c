@@ -2,7 +2,8 @@
 
 /**
  * _abs - computes abs value of int
- * @i - take values of i
+ * @i: take values of i
+ * Return: i if success
  */
 int _abs(int i)
 {
@@ -14,5 +15,5 @@ int _abs(int i)
 	{
 		i = i;
 	}
-	return(i);
+	return (i);
 }
